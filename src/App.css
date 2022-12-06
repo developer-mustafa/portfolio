@@ -1,0 +1,55 @@
+::-webkit-scrollbar{
+    width: 8px;
+    background: none;
+}
+::-webkit-scrollbar-thumb{
+    background: #fd2929f5;
+    border-radius:12px;
+}
+/* body{
+    scroll-behavior: smooth;
+} */
+
+.dark-theme{
+    background-color: #222;
+    color: #f3f3f3;
+}
+/* .dark-theme .testimonial{
+    background-color: #222 !important;
+} */
+.light-theme .awssld__content {
+    background-color: #ffffff !important;
+}
+.dark-theme h2{
+    color: #222;
+}
+.dark-theme h3{
+    color: #222;
+}
+.dark-theme .author-title{
+    color: #ffffff;
+}
+.dark-theme .reviewRank{
+    color: #ffffff;
+}
+.dark-theme .reviewPara{
+    color: #ffffff;
+}
+.dark-theme .review{
+    box-shadow:1px 2px 16px 2px #c4c4c48c;
+}
+.dark-theme h5{
+    color: #afafaf;
+}
+.dark-theme label{
+    color: #302f2f;
+}
+.dark-theme small{
+    color: #0d6efd;
+}
+.light-theme{
+    background-color: #fff;
+}
+.light-theme .skill__title{
+ color: #fff;   
+}

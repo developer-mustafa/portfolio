@@ -30,7 +30,7 @@ export default function Contact() {
                 if (response.status === 200) {
                     Swal.fire({
                         title: 'Hello there!',
-                        text: 'Your email has been sent  to Rahat successfully',
+                        text: 'Your email has been sent  to Mustafa successfully',
                         icon: 'success'
                     }).then((result) => {
                         console.log(result);
@@ -59,23 +59,23 @@ export default function Contact() {
                     <div className="c-left">
                         <h1 className="c-title">Lest's discussed your project</h1>
                         <div className="c-info">
-                            <div className="c-info-item">
-                                <img src={phone} alt="" className="c-item" />
-                                +8801894103578
-                            </div>
-                            <div className="c-info-item">
-                                <img src={whatspp} alt="" className="c-item" />
-                                +8801894103578
-                            </div>
-                            <div className="c-info-item">
-                                <img src={email} alt="" className="c-item" />
-                                kazimdboktia2020@gmail.com
-                            </div>
-                            <div className="c-info-item">
-                                <img src={address} alt="" className="c-item" />
-                                Chattogram, Bangladesh.
-                            </div>
+                        <div className="c-info-item">
+                            <img src={phone} alt="" className="c-item" />
+                            +8801840643946
                         </div>
+                        <div className="c-info-item">
+                            <img src={whatspp} alt="" className="c-item" />
+                            +8801840643946
+                        </div>
+                        <div className="c-info-item">
+                            <img src={email} alt="" className="c-item" />
+                            mustafarahman792@gmail.com
+                        </div>
+                        <div className="c-info-item">
+                            <img src={address} alt="" className="c-item" />
+                            Mirsarai,Chattogram, Bangladesh.
+                        </div>
+                    </div>
                     </div>
                     <div className="c-right">
                         <p className="c-desc">

@@ -14,7 +14,7 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg sticky-top navbar-custom">
             <div className="container-fluid">
                 <Link className="navbar-brand ms-5" to="/">
-                    {user ? user.name : "Rahat"}
+                    {user ? user.name : "Mustafa Rahman"}
                 </Link>
                 <button className="navbar-toggler custom-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon navbar-toggler-icon-custom"></span>

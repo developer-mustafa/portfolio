@@ -29,7 +29,7 @@ export default function Contact() {
                 if (response.status === 200) {
                     Swal.fire({
                         title: 'Hello there!',
-                        text: 'Your email has been sent  to Rahat successfully',
+                        text: 'Your email has been sent  to Mustafa Rahman successfully',
                         icon: 'success'
                     }).then((result) => {
                         console.log(result);
@@ -58,19 +58,19 @@ export default function Contact() {
                     <div className="c-info">
                         <div className="c-info-item">
                             <img src={phone} alt="" className="c-item" />
-                            +8801894103578
+                            +8801840643946
                         </div>
                         <div className="c-info-item">
                             <img src={whatspp} alt="" className="c-item" />
-                            +8801894103578
+                            +8801840643946
                         </div>
                         <div className="c-info-item">
                             <img src={email} alt="" className="c-item" />
-                            kazimdboktia2020@gmail.com
+                            mustafarahman792@gmail.com
                         </div>
                         <div className="c-info-item">
                             <img src={address} alt="" className="c-item" />
-                            Chattogram, Bangladesh.
+                            Mirsarai,Chattogram, Bangladesh.
                         </div>
                     </div>
                 </div>

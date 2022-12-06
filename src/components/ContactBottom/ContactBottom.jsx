@@ -14,15 +14,15 @@ const ContactBottom = () => {
            
             <div className="contact-icons d-flex flex-wrap justify-content-center align-items-center mt-5">
 
-                <a href="https://github.com/rahat2020" className="icon me-3 me-md-5 mb-4 mb-md-0 mb-xl-0 fs-3" target="_blank" rel="noreferrer"><FontAwesomeIcon className="" icon={faGithub} /></a>
+                <a href="https://github.com/developer-mustafa" className="icon me-3 me-md-5 mb-4 mb-md-0 mb-xl-0 fs-3" target="_blank" rel="noreferrer"><FontAwesomeIcon className="" icon={faGithub} /></a>
 
-                <a href="https://www.linkedin.com/in/kazi-rahat2020/" className="icon me-3 me-md-5 mb-4 mb-md-0 mb-xl-0 fs-3"><FontAwesomeIcon className="" icon={faLinkedinIn} /></a>
+                <a href="https://www.linkedin.com/in/developer-mustafa/" className="icon me-3 me-md-5 mb-4 mb-md-0 mb-xl-0 fs-3"><FontAwesomeIcon className="" icon={faLinkedinIn} /></a>
 
-                <a href="https://web.facebook.com/KaziRahat1020/" className="icon me-3 me-md-5 mb-4 mb-md-0 mb-xl-0 fs-3"><FontAwesomeIcon className="" icon={faFacebookF} /></a>
+                <a href="https://www.facebook.com/Mustafa24hours" className="icon me-3 me-md-5 mb-4 mb-md-0 mb-xl-0 fs-3"><FontAwesomeIcon className="" icon={faFacebookF} /></a>
 
-                <a href="https://www.instagram.com/kazirahat1020/" className="icon me-3 me-md-5 mb-4 mb-md-0 mb-xl-0 fs-3"><FontAwesomeIcon className="" icon={faInstagram} /></a>
+                <a href="https://www.instagram.com/developer_mustafa_rahman/" className="icon me-3 me-md-5 mb-4 mb-md-0 mb-xl-0 fs-3"><FontAwesomeIcon className="" icon={faInstagram} /></a>
 
-                <a href="mailto:kazimdboktiar2020@gmail.com" className="icon me-3 me-md-5 fs-3"><FontAwesomeIcon className="" icon={faEnvelope} /></a>
+                <a href="mailto:mustafarahman792@gmail.com" className="icon me-3 me-md-5 fs-3"><FontAwesomeIcon className="" icon={faEnvelope} /></a>
                 {/* <button onClick={() => { setIsNumber(!isNumber) }} className="icon me-3 me-md-5 fs-3">
                     <FontAwesomeIcon icon={faPhoneAlt} />
                 </button> */}

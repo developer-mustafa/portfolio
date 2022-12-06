@@ -27,10 +27,10 @@ export default function ProductList() {
         <div className="pl">
             <div data-aos="fade-up" className="pl-texts">
                 <h1 className="pl-title">
-                    Create & inspire. It is Rahat
+                    Create & inspire. <br/> This is Mustafa Rahman
                 </h1>
                 <p className="pl-desc">
-                    Rahat is a creative Developer and Designer that your work has been waiting for.
+                    Mustafa Rahman is a creative Developer and Designer that your work has been waiting for.
                     Beautiful homes, stunning portfolio styles & a whole lot more awaits
                     inside.
                 </p>

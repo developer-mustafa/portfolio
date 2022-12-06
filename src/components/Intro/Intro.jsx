@@ -1,6 +1,6 @@
 import React from 'react';
 import './Intro.css';
-import MHK360 from '../../img/MHK360.png';
+import mustafa from '../../img/mustafa.png';
 import { Link } from 'react-router-dom';
 
 export default function Intro() {
@@ -10,18 +10,21 @@ export default function Intro() {
 
       <div className="i-left">
         <div className="i-left-wrapper">
-          <h2 data-aos="fade-up" className="i-intro">Hello, I Am</h2>
-          <h1 data-aos="fade-up" className="i-name">Hridoy Khan</h1>
+          <h2 data-aos="fade-up" className="i-intro">Hello,This is</h2>
+          <h1 data-aos="fade-up" className="i-name">Mustafa Rahman</h1>
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">
-                Frontend Developer
+              Front-End Developer
               </div>
               <div className="i-title-item">
-                Node js Developer
+                Node.js Developer
               </div>
               <div className="i-title-item">
-                MERN Developer
+                MERN stack Developer
+              </div>
+              <div className="i-title-item">
+                Full stack Developer
               </div>
               <div className="i-title-item">
                 Web Designer
@@ -30,14 +33,14 @@ export default function Intro() {
           </div>
           <p className="i-desc">
             I design and develop services for customers of all sizes,
-            specializing in creating stylish, modern websites, web services and
-            online stores.
+            specializing in creating stylish, modern websites, Full stack web services and
+            online stores all site and web application developed 100% fresh hand code.
           </p>
           <div className="i-Btn">
             <Link to="/contactme">
               <button className="i-btn" id="contact">Hire me</button>
             </Link>
-            <a href="https://drive.google.com/file/d/1x-aj9axn3_TNLV2Ytc2lW06U_5dUNBMH/view" target="_blank" rel="noreferrer">
+            <a href="#" target="_blank" rel="noreferrer">
               <button className="i-btn resume">Get my resume</button>
             </a>
           </div>
@@ -101,7 +104,7 @@ export default function Intro() {
       </div>
       <div data-aos="fade-up" className="i-right">
         <div className="i-bg"></div>
-        <img src={MHK360} alt="" className="i-img" />
+        <img  src={mustafa} alt="" className="i-img" />
       </div>
     </section>
   )

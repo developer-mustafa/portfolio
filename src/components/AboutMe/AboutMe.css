@@ -138,17 +138,25 @@
     position: absolute;
     left: 50px;
 }
+.clrgt-container{
+    background-color: #1b0d31b9;
+    padding:2rem;
+    border-radius:17px;
+    margin-right: 2rem;
+   
+}
 .clrgt-container .clrgt-title{
     font-weight: 700;
-    color: #ff44d0ee;
+    color: #d8d3d8ee;
     letter-spacing: 2px;
 }
 .clrgt-btn-container{
-    margin-top: 2rem;
+    margin-top: 1rem;
+    
 }
 .clrgt-container .clrgt-para{
     /* color: #000000e1; */
-    color: #ff44d0ee;
+    color: #d3d1d2ee;
     font-weight: 300;
 }
 .clrgt-btn-container .btn-projects{

@@ -1,6 +1,6 @@
 import React from 'react'
 import './Blogs.css';
-import prome from '../../img/proMe.png';
+import prome from '../../img/glassbgwhite.png';
 
 const Blogs = () => {
     return (
